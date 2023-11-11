@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+body{
+    background-color: lightgreen;
+}
+h1,h3{
+    text-align: center;
+    color:aquamarine;
+    background-color: seagreen;
+}
+
+p,#target{
+    text-align: center;
+}
+
+button{
+    background-image: url(./mochi.png);
+}
